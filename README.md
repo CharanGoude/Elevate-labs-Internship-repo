@@ -1,4 +1,4 @@
-# Elevate-labs-Internship-repo
+# Basic Calculator using Java 
  How it Works:
 Methods for basic arithmetic: add(), subtract(), multiply(), divide().
 
